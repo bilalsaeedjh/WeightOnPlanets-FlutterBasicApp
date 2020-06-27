@@ -1,16 +1,27 @@
-# planets
+# WeightOnPlanets
+### We can find weight of an individual on different planets using this app.
+By getting information from the user like weight, we would show the results.
+Unique Standerized formula is used to calculate the Weight on Different Planets (Body Mass Index).
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/bilalsaeedjh/WeightOnPlanets-FlutterBasicApp/blob/master/images/PlanetX.gif?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What you can learn from it?
+  > BottomNavigationBars
+  
+  > Widget Tree Structure
+  
+  > Using function and algorithims in flutter
+  
+  > TextAnimations
+  
+  > UrlLaunchers in Flutter
+  
+  > Using AwesomeFonts package in Flutter
+  
+  
+Find the tutorial on [Youtube](https://www.youtube.com/channel/UCZSgQGG74K2yuEDnbG4U1tQ?view_as=subscriber)
+
