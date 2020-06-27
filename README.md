@@ -1,7 +1,7 @@
 # WeightOnPlanets
 ### We can find weight of an individual on different planets using this app.
 By getting information from the user like weight, we would show the results.
-Unique Standerized formula is used to calculate the Weight on Different Planets (Body Mass Index).
+Unique Standerized formula is used to calculate the Weight on Different Planets.
 
 
 
